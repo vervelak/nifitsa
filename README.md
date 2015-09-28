@@ -17,3 +17,7 @@ an easy way to upload photos, info about the next target.
 Forth Part ....
 
 
+//Giorgos ideas
+
+Another subprojectt will be to make a web PoIs manager and feed it with all known past riddle solutions and all the places with historical and cultural interest in heraklion. Also we can have all the great  (historical) persons
+and all the connections with statues,buildings etc.
